@@ -1,6 +1,6 @@
 {
   "name": "img-link-frontend",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "img-Link-Frontend",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,10 @@
     "type": "git",
     "url": "git+https://github.com/Img-Link-Generator/img-Link-Frontend.git"
   },
-  "keywords": ["img link generator", "imglinkgenerator"],
+  "keywords": [
+    "img link generator",
+    "imglinkgenerator"
+  ],
   "author": "DavidYang",
   "license": "GPL",
   "bugs": {
