@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DavidYang2149/img-Link-Frontend.git"
+    "url": "git+https://github.com/Img-Link-Generator/img-Link-Frontend.git"
   },
-  "keywords": [],
+  "keywords": ["img link generator", "imglinkgenerator"],
   "author": "DavidYang",
   "license": "GPL",
   "bugs": {
-    "url": "https://github.com/DavidYang2149/img-Link-Frontend/issues"
+    "url": "https://github.com//img-Link-Frontend/issues"
   },
-  "homepage": "https://github.com/DavidYang2149/img-Link-Frontend#readme",
+  "homepage": "https://Img-Link-Generator.github.io/img-Link-Frontend",
   "devDependencies": {
     "@babel/core": "^7.12.10",
     "@babel/plugin-proposal-class-properties": "^7.12.1",
