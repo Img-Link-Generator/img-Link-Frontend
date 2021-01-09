@@ -5,7 +5,7 @@ export default function App() {
     <>
       <h1>로그인</h1>
       <div>
-        github
+        github Pages
       </div>
     </>
   );
