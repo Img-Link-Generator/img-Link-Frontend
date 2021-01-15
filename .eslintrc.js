@@ -86,5 +86,6 @@ module.exports = {
       { js: 'never', jsx: 'never', ts: 'never', tsx: 'never', json: 'never' }
     ],
     '@typescript-eslint/explicit-module-boundary-types': 'off',
+    'react/jsx-fragments': ['off'],
   },
 };
